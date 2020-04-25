@@ -59,101 +59,6 @@
         ]
       },
       {
-        "username": "cslarson",
-        "aliases": [
-          "github/cslarson"
-        ]
-      },
-      {
-        "username": "0xGabi",
-        "aliases": [
-          "github/0xgabi"
-        ]
-      },
-      {
-        "username": "sembrestels",
-        "aliases": [
-          "github/sembrestels"
-        ]
-      },
-      {
-        "username": "fabriziovigevani",
-        "aliases": [
-          "github/fabriziovigevani"
-        ]
-      },
-      {
-        "username": "fioreb",
-        "aliases": [
-          "github/fioreb"
-        ]
-      },
-      {
-        "username": "onbjerg",
-        "aliases": [
-          "github/onbjerg"
-        ]
-      },
-      {
-        "username": "rperez",
-        "aliases": [
-          "github/rperez89"
-        ]
-      },
-      {
-        "username": "willjgriff",
-        "aliases": [
-          "github/willjgriff"
-        ]
-      },
-      {
-        "username": "li",
-        "aliases": [
-          "github/luisivan"
-        ]
-      },
-      {
-        "username": "crisorg",
-        "aliases": [
-          "github/crisog",
-          "discord/474405294307278880"
-        ]
-      },
-      {
-        "username": "audsssy",
-        "aliases": [
-          "discord/218101199268741120"
-        ]
-      },
-      {
-        "username": "benscholtz",
-        "aliases": [
-          "github/BenSchZA",
-          "discord/384333876572454912"
-        ]
-      },
-      {
-        "username": "jlwaugh",
-        "aliases": [
-          "github/jlwaugh",
-          "discord/695344751490236486"
-        ]
-      },
-      {
-        "username": "robin",
-        "aliases": [
-          "github/w1kke",
-          "discord/194817764236460034"
-        ]
-      },
-      {
-        "username": "Santiago",
-        "aliases": [
-          "github/santteegt",
-          "discord/440281764204642314"
-        ]
-      },
-      {
         "username": "evalir",
         "aliases": [
           "github/Evalir",
@@ -162,6 +67,82 @@
       }
     ],
     "repoIds": [
+      {
+        "name": "AraCred",
+        "owner": "not-legal-advice"
+      },
+      {
+        "name": "bot",
+        "owner": "not-legal-advice"
+      },
+      {
+        "name": "security-token",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "LexToken",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Escrow",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Offer-Token",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Products",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "TLDR",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "LexBank",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "LEE",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Assets",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "nakamotoinstitute.org",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "themis",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Personal-Tokens",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "MoneyStamps",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "Digital-Secretary.sol",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "AIT",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "web3-Essentials",
+        "owner": "lexDAO"
+      },
+      {
+        "name": "TXLscript",
+        "owner": "lexDAO"
+      }
     ]
   }
 ]
